@@ -14,8 +14,8 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Links
 
-* [Repository](https://github.com/CodeMaster-jab/EmployeeDirectory)
-* [Heroku Application](https://mighty-mountain-10003.herokuapp.com/)
+* [Repository](git@github.com:clarkdkyle/empdir.git)
+* [Heroku Application]()
 
 
 ## Acceptance Criteria
